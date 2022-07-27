@@ -5,7 +5,7 @@ Eyes moving with cursor
 Fun with HTML, CSS and JavaScript - the software has two synchronized eyes that will follow the mouse pointer. Eye and ball shape can be adjusted in the css file, as can color. 
 
 
-At this time tthe code serves its function as an educational tool - allowing users to experience working with with HTML and CSS. Future improvements could include a button to change eye color, or a random function to have the eyes go crazy every now and then.
+At this time the code serves its function as an educational tool - allowing users to experience working with with HTML and CSS. Future improvements could include a button to change eye color, or a random function to have the eyes go crazy every now and then.
 
 To run this software - download the files and save them into a folder. Using Visual Studio Code, or your preferred local web server, run index.html to see the program in action. Move your mouse and see the eyes move.
 
